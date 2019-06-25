@@ -1,2 +1,2 @@
 # mynewrepo
-A repository created to learn connecting to Github remotely
+This is change by my colleague
