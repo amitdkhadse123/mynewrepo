@@ -1,2 +1,2 @@
 # mynewrepo
-A repository created to learn connecting to Github remotely
+This is my local change
